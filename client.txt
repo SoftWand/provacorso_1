@@ -1,0 +1,3 @@
+Mario;Rossi;Via del Corso 11;Roma
+Alberto;Verdi;Via del Tritone 100;Roma
+Gennaro;Caputo;Via del Miglio 78;Milano
